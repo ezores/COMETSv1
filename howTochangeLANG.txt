@@ -1,0 +1,16 @@
+translate funct
+take key
+welcome - bonjour
+json file ->
+name: ca-fr.json
+en-us.json
+
+yapilari ayni welcome title key value fr: bonjour
+selected language, find language inside
+import json
+
+translation.welcomeTitle -> adamin sectigi config e gore 
+
+
+347 LINE
+local storage.get to get is French or no to show if french or no
